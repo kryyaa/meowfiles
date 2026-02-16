@@ -1,2 +1,2 @@
 # meowfiles
-[enter!!!](https://t.me/meowfilesbot)
+[`enter!!!`](https://t.me/meowfilesbot)
